@@ -5,4 +5,4 @@
 Huge shoutout to theAIguyscode for making YOLOv4 deepsort more accessible, and to Adrian Rosebrock for enabling a faster solution to use google images as dataset*
 - [YOLOv4 deepsort](https://github.com/theAIGuysCode/yolov4-deepsort)
 - [how to create a deep learning dataset using google images](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/)
-* we used Adrian's way instead of the AIguyscode because it seemed to be malfunctioning
+*we used Adrian's way instead of the AIguyscode because it seemed to be malfunctioning on Mac OS
